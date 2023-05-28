@@ -1,0 +1,10 @@
+name: Setup
+run-name: ${{ github.actor }} Setup
+on: [push]
+jobs:
+  Setup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: List files in the repository
+        run: |
+          ./setup.command
