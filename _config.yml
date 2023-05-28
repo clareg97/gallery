@@ -10,13 +10,13 @@ full_name: Clare Green Photography
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
-layout_style: COLUMNS
+layout_style: ROWS
 
 # Variables below are default. Feel free to customize the values below, but do
 # not remove the property.
 
 # Integer: Spacing between each photo
-spacing: 10
+spacing: 15
 
 # Boolean(true|false): Shuffle the photos in the album
 shuffle: false
