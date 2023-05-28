@@ -24,7 +24,7 @@ img.zoom-img {
   backface-visibility: hidden;
   transform: translateZ(0);
 }
-.zoom-overlay {
+/* .zoom-overlay {
   z-index: 9999;
   background: #fff;
   position: fixed;
@@ -46,4 +46,4 @@ img.zoom-img {
 .zoom-overlay-open,
 .zoom-overlay-transitioning {
   cursor: default;
-}
+} */
