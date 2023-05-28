@@ -10,3 +10,4 @@ jobs:
         run: |
           chmod +x ./setup.command
          ./setup.command
+        shell: bash
