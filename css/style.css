@@ -1,5 +1,6 @@
 body {
   font-family: 'Lato', 'Helvetica', 'Verdana', sans-serif;
+  background: #000000;
 }
 
 #container {
@@ -11,6 +12,7 @@ body {
 .header {
   margin-top: 124px;
   margin-bottom: 32px;
+  color: #ffffff;
 
   font-size: 30px;
   font-weight: 900;
@@ -61,7 +63,7 @@ h3 {
 .links__icon,
 .links__icon:visited,
 .links__icon:link {
-  color: #000000;
+  color: #ffffff;
   text-decoration: none;
   font-size: 14px;
   margin-right: 8px;
@@ -70,7 +72,7 @@ h3 {
 }
 
 .links__icon:hover {
-  color: #000000;
+  color: #ffffff;
 }
 
 .view-ig {
