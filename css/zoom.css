@@ -7,9 +7,9 @@ img[data-action="zoom"] {
 .zoom-img-wrap {
   position: relative;
   z-index: 99999;
-  -webkit-transition: all 10ms;
-       -o-transition: all 10ms;
-          transition: all 10ms;
+  -webkit-transition: all 0ms;
+       -o-transition: all 0ms;
+          transition: all 0ms;
 }
 img.zoom-img {
   cursor: pointer;
