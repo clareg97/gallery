@@ -5,6 +5,8 @@ jobs:
   Setup:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: List files in the repository
         run: |
-          ./setup.command
+          chmod +x ./setup.command
+         ./setup.command
